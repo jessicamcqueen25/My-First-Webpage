@@ -1,0 +1,115 @@
+h1{
+color: orangered;
+font-family: times new roman;
+font-size: 30px;
+border: 4px solid black;
+}
+p{
+color: black;
+font-family: times new roman;
+font-size: 18px;
+}
+
+body{
+color: orangered;
+background-color: pink;
+}
+
+h2{
+color: orangered;
+font-family: times new roman;
+font-size: 30px;
+}
+
+h3{
+color: orangered;
+font-family: times new roman;
+font-size: 30px;
+}
+
+
+
+Figcaption{
+Color: orangered;
+font-family: lucida handwriting;
+font-size: 18px;
+}
+
+
+
+
+   nav {
+            background-color: pink;
+        }
+        nav table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        nav td {
+            width: 25%; /* Ensure each cell takes an equal share of the table width */
+            text-align: center;
+            padding: 14px 0; /* Adjust padding to make clickable area larger */
+			background-color: pink;
+        }
+        nav a {
+            display: block;
+            color: black;
+			background-color: pink;
+			text color: pink;
+            text-decoration: none;
+            padding: 14px 16px;
+        }
+        nav a:hover {
+            background-color: pink;
+        }
+
+
+
+table, th, td{
+border: 1px solid black;
+color: red;
+background-color: White;
+}
+
+.hero{
+display: flex;
+align-items: center;
+justify-content: center; 
+}
+
+
+form input, textarea{
+border-top: none;
+border-left: none;
+border-right: none'
+border-bottom: 1px solidblack;
+outline: none;
+}
+
+#input-field{
+padding-bottom: 5px;
+display: flex;
+align-items: center;
+}
+
+input-field i{
+font-size: 22px;
+margin-right: 15px;
+}
+
+.send-btn{
+border: none;
+background: black;
+color: white;
+font-size: 16px;
+padding: 6px 0;
+border-radius: 50px;
+}
+
+
+	
+
+
+
+
+
