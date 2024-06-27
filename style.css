@@ -25,6 +25,7 @@ h3{
 color: orangered;
 font-family: times new roman;
 font-size: 30px;
+text-align: left;
 }
 
 
@@ -72,7 +73,8 @@ background-color: White;
 }
 
 .hero{
-display: flex;
+display: center;
+align: center;
 align-items: center;
 justify-content: center; 
 }
@@ -82,7 +84,7 @@ form input, textarea{
 border-top: none;
 border-left: none;
 border-right: none'
-border-bottom: 1px solidblack;
+border-bottom: 5px solidblack;
 outline: none;
 }
 
@@ -95,10 +97,11 @@ align-items: center;
 input-field i{
 font-size: 22px;
 margin-right: 15px;
+align: center;
 }
 
 .send-btn{
-border: none;
+border: 5px solidblack;
 background: black;
 color: white;
 font-size: 16px;
